@@ -1,0 +1,9 @@
+#ifndef SECRETS_H
+#define SECRETS_H
+
+#define WIFI_SSID "TU_WIFI"
+#define WIFI_PASSWORD "TU_PASSWORD"
+#define API_KEY "TU_API_KEY"
+#define DATABASE_URL "TU_DATABASE_URL"
+
+#endif
