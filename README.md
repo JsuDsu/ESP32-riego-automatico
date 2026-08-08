@@ -3,7 +3,7 @@
 Proyecto para controlar y monitorear un sistema de riego automático con ESP32.
 
 ## Archivos
-- `sketch_jul15a.ino`
+- `ESP32-riego-automatico.ino`
 - `Secrets_example.h`
 
 ## Configuración
